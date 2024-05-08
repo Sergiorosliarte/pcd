@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"ejercicio4","l":"Admin"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ejercicio1","l":"Ejercicio1"},{"p":"ejercicio4","l":"Ejercicio4"},{"p":"ejercicio1","l":"HiloPotencia"},{"p":"ejercicio1","l":"HiloSuma"},{"p":"ejercicio4","l":"Servidor"},{"p":"ejercicio4","l":"Usuario"}];updateSearchResults();
